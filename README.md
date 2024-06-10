@@ -4,8 +4,8 @@ A lo largo del script, uno podrá realizar diversas acciones dependiendo de la o
 La manera de trabajar de este script, es a través de instrucciones sencillas, editar el archivo host de tu equipo para bloquear cualquier dominio que se disponga.
 
 ## CODIGO:
-´´´´
 
+<pre>
 REM Creado por WAPORI
 
 
@@ -2273,4 +2273,6 @@ exit /b
 echo OPCION INVALIDA, POR FAVOR ESPECIFIQUE UN NUMERO ENTRE 1 Y 5
 timeout 4 > NUL
 GOTO MENU_START
-´´´´
+
+
+<pre>
